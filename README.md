@@ -30,7 +30,9 @@ print("Eigen Vectors are", eigenvectors)
 ```
 ## Output:
 
-<img width="1266" height="251" alt="image" src="https://github.com/user-attachments/assets/c6559d7c-236c-4c0b-9758-36ac8cf1a840" />
+
+<img width="1332" height="940" alt="image" src="https://github.com/user-attachments/assets/6f92dc5a-7584-4b37-926c-6a156451b037" />
+
 
 
 ## Result:
